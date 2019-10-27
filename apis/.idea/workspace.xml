@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="445adb32-57fe-4f3c-9d6e-6ade2e7dde10" name="Default Changelist" comment="Profile, Newsfeed Changing" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="628">
+              <caret line="157" column="26" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>authe</find>
+      <find>users_get</find>
+      <find>requests</find>
+      <find>sendemails</find>
+      <find>unset</find>
+      <find>devices_incashed</find>
+      <find>all_registered_users</find>
+      <find>newsletter_submit</find>
+      <find>num_of_mails</find>
+      <find>all_mails</find>
+      <find>individual_email</find>
+      <find>verify_email</find>
+      <find>simpleValidation</find>
+      <find>sendEmail</find>
+      <find>set(</find>
+      <find>contact</find>
+      <find>set</find>
+      <find>va</find>
+      <find>status</find>
+      <find>comment</find>
+      <find>all_categories</find>
+      <find>-&gt;set(</find>
+      <find>Category</find>
+      <find>DeviceBrand_model</find>
+      <find>devices_brands</find>
+      <find>CATEGORY_BRAND_DIR</find>
+      <find>DeviceCategory_model</find>
+      <find>Admin_model</find>
+      <find>update_storeLocation</find>
+      <find>StoreLocation_model</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>tbl_badges</replace>
+      <replace>badge_id</replace>
+      <replace>badges</replace>
+      <replace>user_id</replace>
+      <replace>users</replace>
+      <replace>Users_model</replace>
+      <replace>DeviceBrand_model</replace>
+      <replace>Brand</replace>
+      <replace>brand</replace>
+      <replace>DeviceProduct_model</replace>
+      <replace>devices_products</replace>
+      <replace>BRAND_PRODUCT_DIR</replace>
+      <replace>Admin_model</replace>
+      <replace>StoreLocation_model</replace>
+      <replace>WebContent_model</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/modules/DirectMessages/controllers/DirectMessages.php" />
+        <option value="$PROJECT_DIR$/application/modules/users/models/Users_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/Profile/models/profile_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/JobPosts/models/JobPosts_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/TimeLine/models/TimeLine_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/DirectMessages/models/DirectMessages_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/PostModule/controllers/PostModule.php" />
+        <option value="$PROJECT_DIR$/application/modules/Category/controllers/Category.php" />
+        <option value="$PROJECT_DIR$/application/modules/Category/models/Skills_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/FollowUser/models/FollowUser_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/Newsfeed/controllers/Newsfeed.php" />
+        <option value="$PROJECT_DIR$/application/modules/Newsfeed/models/Newsfeed_model.php" />
+        <option value="$PROJECT_DIR$/application/config/db_config.php" />
+        <option value="$PROJECT_DIR$/application/modules/Login/models/Login_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/PostModule/models/PostModule_model.php" />
+        <option value="$PROJECT_DIR$/application/libraries/requesttoserver.php" />
+        <option value="$PROJECT_DIR$/application/modules/Store/controllers/Store.php" />
+        <option value="$PROJECT_DIR$/application/modules/Newsletter/models/Newsletter_models.php" />
+        <option value="$PROJECT_DIR$/application/modules/Newsletter/controllers/Newsletter.php" />
+        <option value="$PROJECT_DIR$/application/libraries/sendemails.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/modules/Store/models/Store_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/Newsletter/models/Newsletter_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/Users/controllers/Users.php" />
+        <option value="$PROJECT_DIR$/application/modules/Contact/models/contact_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/Contact/controllers/Contact.php" />
+        <option value="$PROJECT_DIR$/application/modules/Contact/models/Contact_model.php" />
+        <option value="$PROJECT_DIR$/application/libraries/Sendemails.php" />
+        <option value="$PROJECT_DIR$/application/modules/Mails/controllers/Mails.php" />
+        <option value="$PROJECT_DIR$/application/modules/DeviceReq/controllers/DeviceReq.php" />
+        <option value="$PROJECT_DIR$/application/modules/DeviceReq/models/DeviceReq_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/Devices/controllers/Devices.php" />
+        <option value="$PROJECT_DIR$/application/modules/Devices/models/Devices_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/DeviceCategory/controllers/DeviceCategory.php" />
+        <option value="$PROJECT_DIR$/application/modules/Mails/models/Mails_model.php" />
+        <option value="$PROJECT_DIR$/application/helpers/directory_helper.php" />
+        <option value="$PROJECT_DIR$/application/modules/DeviceCategory/models/DeviceCategory_model.php" />
+        <option value="$PROJECT_DIR$/application/config/project_constants.php" />
+        <option value="$PROJECT_DIR$/application/modules/DeviceBrand/controllers/DeviceBrand.php" />
+        <option value="$PROJECT_DIR$/application/modules/DeviceBrand/models/DeviceBrand_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/DeviceProduct/controllers/DeviceProduct.php" />
+        <option value="$PROJECT_DIR$/application/modules/DeviceProduct/models/DeviceProduct_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/Admin/controllers/Admin.php" />
+        <option value="$PROJECT_DIR$/application/modules/Users/models/Users_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/Admin/models/Admin_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/StoreLocation/controllers/StoreLocation.php" />
+        <option value="$PROJECT_DIR$/application/modules/StoreLocation/models/StoreLocation_model.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/helpers/validation_data_helper.php" />
+        <option value="$PROJECT_DIR$/application/modules/WebContent/controllers/WebContent.php" />
+        <option value="$PROJECT_DIR$/application/modules/WebContent/models/WebContent_model.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="phonebechdou-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phonebechdou-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phonebechdou-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phonebechdou-api" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phonebechdou-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phonebechdou-api" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shaheer" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="445adb32-57fe-4f3c-9d6e-6ade2e7dde10" name="Default Changelist" comment="" />
+      <created>1546930238146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546930238146</updated>
+      <workItem from="1546930239688" duration="14378000" />
+      <workItem from="1547028946238" duration="64000" />
+      <workItem from="1547029086999" duration="396000" />
+      <workItem from="1547029492232" duration="15308000" />
+      <workItem from="1547536283851" duration="1827000" />
+      <workItem from="1547612894102" duration="1199000" />
+      <workItem from="1547636450199" duration="10277000" />
+      <workItem from="1547719454607" duration="17590000" />
+      <workItem from="1547806595703" duration="126136000" />
+      <workItem from="1549448162261" duration="225000" />
+      <workItem from="1549456946159" duration="7770000" />
+      <workItem from="1549538783079" duration="593000" />
+      <workItem from="1549540558371" duration="673000" />
+      <workItem from="1549604116141" duration="1234000" />
+      <workItem from="1549605977169" duration="596000" />
+      <workItem from="1549863196318" duration="1047000" />
+      <workItem from="1549865082044" duration="599000" />
+      <workItem from="1549866915935" duration="598000" />
+      <workItem from="1550145315817" duration="881000" />
+      <workItem from="1550146247416" duration="1806000" />
+      <workItem from="1550148272616" duration="637000" />
+      <workItem from="1550204870700" duration="1572000" />
+      <workItem from="1550206743406" duration="599000" />
+      <workItem from="1550208729809" duration="310000" />
+      <workItem from="1550209325249" duration="307000" />
+      <workItem from="1550209653491" duration="57974000" />
+      <workItem from="1552317093798" duration="9257000" />
+      <workItem from="1552494727028" duration="5157000" />
+      <workItem from="1552579374209" duration="9434000" />
+      <workItem from="1552807284453" duration="566000" />
+      <workItem from="1552817521844" duration="1791000" />
+      <workItem from="1552828066276" duration="596000" />
+      <workItem from="1553001977959" duration="255000" />
+      <workItem from="1553188595138" duration="6554000" />
+      <workItem from="1553419476979" duration="10385000" />
+      <workItem from="1553711216738" duration="2868000" />
+      <workItem from="1554035356768" duration="595000" />
+      <workItem from="1554128099248" duration="2160000" />
+      <workItem from="1554308963798" duration="619000" />
+      <workItem from="1554387634374" duration="436000" />
+      <workItem from="1554388095041" duration="6176000" />
+      <workItem from="1554406246917" duration="7702000" />
+      <workItem from="1554547575427" duration="2058000" />
+      <workItem from="1554553841120" duration="7070000" />
+      <workItem from="1554656275963" duration="1975000" />
+      <workItem from="1554746706181" duration="5056000" />
+      <workItem from="1555002917148" duration="3218000" />
+      <workItem from="1555083988958" duration="1091000" />
+      <workItem from="1555086519702" duration="1194000" />
+      <workItem from="1555089825025" duration="715000" />
+      <workItem from="1555092298369" duration="746000" />
+      <workItem from="1555182468493" duration="1072000" />
+      <workItem from="1555344741521" duration="6047000" />
+      <workItem from="1555518853602" duration="18055000" />
+      <workItem from="1555738460336" duration="14841000" />
+      <workItem from="1556041420390" duration="4943000" />
+      <workItem from="1556125635190" duration="1280000" />
+      <workItem from="1556210109157" duration="596000" />
+      <workItem from="1556293232373" duration="594000" />
+      <workItem from="1556381728034" duration="21561000" />
+      <workItem from="1556549707485" duration="7013000" />
+      <workItem from="1556633304637" duration="36000" />
+      <workItem from="1556639892684" duration="12169000" />
+      <workItem from="1556961128798" duration="4846000" />
+      <workItem from="1557042627179" duration="4607000" />
+      <workItem from="1557069963318" duration="5786000" />
+      <workItem from="1557333717606" duration="1817000" />
+      <workItem from="1557426394953" duration="1458000" />
+      <workItem from="1557507104301" duration="108000" />
+      <workItem from="1557507300067" duration="598000" />
+      <workItem from="1557691067848" duration="4679000" />
+    </task>
+    <task id="LOCAL-00001" summary="remove trim function">
+      <created>1546931225453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546931225453</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Profile Management">
+      <created>1547009356744</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547009356744</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Profile Management">
+      <created>1547010148878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547010148878</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Profile Management">
+      <created>1547013102492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547013102492</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Profile Management">
+      <created>1547101298062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547101298062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Profile Management">
+      <created>1547107892849</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547107892849</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Profile Management">
+      <created>1547712906617</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547712906617</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Profile Management">
+      <created>1547719698395</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1547719698395</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Profile Management">
+      <created>1547730161196</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547730161196</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Profile Management">
+      <created>1547730188542</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547730188542</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Profile Management">
+      <created>1547793829275</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547793829275</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Profile Management">
+      <created>1547798195555</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547798195555</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Profile Management">
+      <created>1547798222888</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547798222888</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Profile Management">
+      <created>1547809075489</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1547809075489</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Profile Management">
+      <created>1547812092485</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1547812092485</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Profile Management">
+      <created>1547812191333</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1547812191333</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Profile Management">
+      <created>1547882387650</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547882387650</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Profile Management">
+      <created>1547893251487</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1547893251487</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Profile Management">
+      <created>1547893288520</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1547893288520</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Profile Management">
+      <created>1548047151956</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1548047151956</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Profile Management">
+      <created>1548065878692</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1548065878692</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Profile Management">
+      <created>1548070046552</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1548070046552</updated>
+    </task>
+    <task id="LOCAL-00023" summary="post">
+      <created>1548138183291</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1548138183291</updated>
+    </task>
+    <task id="LOCAL-00024" summary="post">
+      <created>1548138310795</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1548138310795</updated>
+    </task>
+    <task id="LOCAL-00025" summary="post">
+      <created>1548140753692</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1548140753692</updated>
+    </task>
+    <task id="LOCAL-00026" summary="post">
+      <created>1548149957635</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1548149957635</updated>
+    </task>
+    <task id="LOCAL-00027" summary="post">
+      <created>1548303709059</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1548303709059</updated>
+    </task>
+    <task id="LOCAL-00028" summary="post">
+      <created>1548310434796</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1548310434796</updated>
+    </task>
+    <task id="LOCAL-00029" summary="post">
+      <created>1548316639116</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1548316639116</updated>
+    </task>
+    <task id="LOCAL-00030" summary="post">
+      <created>1548326074129</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1548326074129</updated>
+    </task>
+    <task id="LOCAL-00031" summary="post">
+      <created>1548330596107</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1548330596107</updated>
+    </task>
+    <task id="LOCAL-00032" summary="post">
+      <created>1548421757728</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1548421757728</updated>
+    </task>
+    <task id="LOCAL-00033" summary="post">
+      <created>1548671498908</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1548671498908</updated>
+    </task>
+    <task id="LOCAL-00034" summary="post">
+      <created>1548680105964</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1548680105964</updated>
+    </task>
+    <task id="LOCAL-00035" summary="post">
+      <created>1548743626138</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1548743626138</updated>
+    </task>
+    <task id="LOCAL-00036" summary="post">
+      <created>1548828475849</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1548828475849</updated>
+    </task>
+    <task id="LOCAL-00037" summary="post">
+      <created>1549533314704</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1549533314704</updated>
+    </task>
+    <task id="LOCAL-00038" summary="post">
+      <created>1550147357624</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1550147357624</updated>
+    </task>
+    <task id="LOCAL-00039" summary="post">
+      <created>1550149309661</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1550149309661</updated>
+    </task>
+    <task id="LOCAL-00040" summary="post">
+      <created>1550208760281</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1550208760282</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Default Changelist">
+      <created>1550560556714</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1550560556714</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Default Changelist">
+      <created>1550637819838</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1550637819838</updated>
+    </task>
+    <task id="LOCAL-00043" summary="25/2/19 (9:25AM)">
+      <created>1551068695251</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1551068695251</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Profile, Newsfeed Changing">
+      <created>1551073287546</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1551073287546</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Profile, Newsfeed Changing">
+      <created>1551088325640</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1551088325640</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="464376000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" id="Project" order="1" visible="true" weight="0.24054463" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove trim function" />
+    <MESSAGE value="Profile Management" />
+    <MESSAGE value="post" />
+    <MESSAGE value="Default Changelist" />
+    <MESSAGE value="25/2/19 (9:25AM)" />
+    <MESSAGE value="Profile, Newsfeed Changing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Profile, Newsfeed Changing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/PostModule/models/PostModule_model.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/modules/Newsfeed/models/Newsfeed_model.php" />
+    <entry file="file://$PROJECT_DIR$/application/modules/RoleinGroup/controllers/RoleinGroup.php" />
+    <entry file="file://$PROJECT_DIR$/application/modules/Profile/controllers/Profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="n#get_user_bio_get#0;n#Profile#0;n#!!top" expanded="false" />
+            <element signature="n#get_complete_bio_get#0;n#Profile#0;n#!!top" expanded="false" />
+            <element signature="n#get_user_bank_info_post#0;n#Profile#0;n#!!top" expanded="false" />
+            <element signature="n#countries_get#0;n#Profile#0;n#!!top" expanded="false" />
+            <element signature="n#states_post#0;n#Profile#0;n#!!top" expanded="false" />
+            <element signature="n#cities_post#0;n#Profile#0;n#!!top" expanded="false" />
+            <element signature="n#add_user_bank_info_post#0;n#Profile#0;n#!!top" expanded="false" />
+            <element signature="n#update_user_bank_info_post#0;n#Profile#0;n#!!top" expanded="false" />
+            <element signature="n#user_skills_post#0;n#Profile#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/ProfileAdministration/controllers/ProfileAdministration.php" />
+    <entry file="file://$PROJECT_DIR$/application/modules/PostModule/controllers/PostModule.php" />
+    <entry file="file://$PROJECT_DIR$/application/modules/PostModule/models/PostModule_model.php" />
+    <entry file="file://$PROJECT_DIR$/application/libraries/Format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/REST_Controller.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Login/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="n#authenticate_user_post#0;n#Login#0;n#!!top" />
+            <element signature="n#recover_password_post#0;n#Login#0;n#!!top" />
+            <element signature="n#change_user_password_post#0;n#Login#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1001" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/doctypes.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/db_helper.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/DeviceReq/controllers/send_device_req.php" />
+    <entry file="file://$PROJECT_DIR$/application/helpers/function_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/RequestToServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="n#getDataCurl#0;n#RequestToServer#0;n#!!top" />
+            <element signature="n#deleteReqCurl#0;n#RequestToServer#0;n#!!top" />
+            <element signature="n#sendDataCurl#0;n#RequestToServer#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="80" column="26" lean-forward="true" selection-start-line="77" selection-start-column="4" selection-end-line="80" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Store/models/Store_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="n#store_location#0;n#Store_model#0;n#!!top" />
+            <element signature="n#web_content#0;n#Store_model#0;n#!!top" />
+            <element signature="n#devices_incashed#0;n#Store_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Store/controllers/Store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="48" column="54" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Newsletter/models/Newsletter_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Newsletter/controllers/Newsletter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/RandomFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="60" column="108" selection-start-line="60" selection-start-column="108" selection-end-line="60" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Sendemails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="n#__construct#0;n#Sendemails#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Mails/controllers/Mails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="59" selection-start-line="47" selection-start-column="4" selection-end-line="59" />
+          <folding>
+            <element signature="n#insert_mails_on_queue_post#0;n#Mails#0;n#!!top" />
+            <element signature="n#send_mail_get#0;n#Mails#0;n#!!top" />
+            <element signature="n#mail_detail_get#0;n#Mails#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Contact/models/Contact_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="84" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+          <folding>
+            <element signature="n#add_contactus#0;n#Contact_model#0;n#!!top" />
+            <element signature="n#all_mails#0;n#Contact_model#0;n#!!top" />
+            <element signature="n#sent_mails#0;n#Contact_model#0;n#!!top" />
+            <element signature="n#unread_mails#0;n#Contact_model#0;n#!!top" />
+            <element signature="n#num_of_mails#0;n#Contact_model#0;n#!!top" />
+            <element signature="n#num_of_sent_mails#0;n#Contact_model#0;n#!!top" />
+            <element signature="n#num_of_unread_mails#0;n#Contact_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/DeviceReq/controllers/DeviceReq.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="191" column="60" selection-start-line="191" selection-start-column="60" selection-end-line="191" selection-end-column="60" />
+          <folding>
+            <element signature="n#__construct#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#add_device_req_post#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#selling_reqs_get#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#eval_selling_reqs_get#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#buy_device_req_post#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#client_device_requests_post#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#num_of_selling_req_get#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#num_of_unread_selling_req_get#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#trash_sellingReq_get#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#req_detail_get#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#selling_req_detail_get#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#comment_on_sellingReq_post#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#update_evaluation_status_post#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#num_of_buying_req_get#0;n#DeviceReq#0;n#!!top" />
+            <element signature="n#num_of_unread_buying_req_get#0;n#DeviceReq#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/DeviceReq/models/DeviceReq_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="244" column="118" selection-start-line="244" selection-start-column="118" selection-end-line="244" selection-end-column="118" />
+          <folding>
+            <element signature="n#add_device_req#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#buy_device_req#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#client_device_requests#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#selling_reqs#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#eval_selling_reqs#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#num_of_selling_req#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#num_of_unread_selling_req#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#trash_sellingReq#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#req_detail#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#selling_req_detail#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#comment_on_sellingReq#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#update_evaluation_status#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#num_of_buying_req#0;n#DeviceReq_model#0;n#!!top" />
+            <element signature="n#num_of_unread_buying_req#0;n#DeviceReq_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Contact/controllers/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="73" selection-start-line="61" selection-start-column="4" selection-end-line="73" />
+          <folding>
+            <element signature="n#add_contactus_post#0;n#Contact#0;n#!!top" />
+            <element signature="n#all_mails_post#0;n#Contact#0;n#!!top" />
+            <element signature="n#sent_mails_post#0;n#Contact#0;n#!!top" />
+            <element signature="n#mail_detail_get#0;n#Contact#0;n#!!top" />
+            <element signature="n#num_of_mails_get#0;n#Contact#0;n#!!top" />
+            <element signature="n#num_of_sent_mails_get#0;n#Contact#0;n#!!top" />
+            <element signature="n#num_of_unread_mails_get#0;n#Contact#0;n#!!top" />
+            <element signature="n#unread_mails_post#0;n#Contact#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Devices/controllers/Devices.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="n#__construct#0;n#Devices#0;n#!!top" />
+            <element signature="n#category_brands_post#0;n#Devices#0;n#!!top" />
+            <element signature="n#all_brands_get#0;n#Devices#0;n#!!top" />
+            <element signature="n#brand_products_post#0;n#Devices#0;n#!!top" />
+            <element signature="n#all_products_get#0;n#Devices#0;n#!!top" />
+            <element signature="n#categoryID_products_post#0;n#Devices#0;n#!!top" />
+            <element signature="n#top_products_get#0;n#Devices#0;n#!!top" />
+            <element signature="n#product_detail_post#0;n#Devices#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Devices/models/Devices_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#category_brands#0;n#Devices_model#0;n#!!top" />
+            <element signature="n#all_brands#0;n#Devices_model#0;n#!!top" />
+            <element signature="n#get_all_products#0;n#Devices_model#0;n#!!top" />
+            <element signature="n#get_search_products#0;n#Devices_model#0;n#!!top" />
+            <element signature="n#brand_product#0;n#Devices_model#0;n#!!top" />
+            <element signature="n#categoryID_products#0;n#Devices_model#0;n#!!top" />
+            <element signature="n#top_products#0;n#Devices_model#0;n#!!top" />
+            <element signature="n#product_detail#0;n#Devices_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Mails/models/Mails_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="123" column="72" selection-start-line="123" selection-start-column="72" selection-end-line="123" selection-end-column="72" />
+          <folding>
+            <element signature="n#insert_mails_on_queue#0;n#Mails_model#0;n#!!top" />
+            <element signature="e#3057#3181#0#PHP" />
+            <element signature="n#mail_detail#0;n#Mails_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/DeviceCategory/models/DeviceCategory_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+          <folding>
+            <element signature="n#add_new_category#0;n#DeviceCategory_model#0;n#!!top" />
+            <element signature="e#1264#1709#0#PHP" />
+            <element signature="n#update_category#0;n#DeviceCategory_model#0;n#!!top" />
+            <element signature="e#1889#2197#0#PHP" />
+            <element signature="e#1969#2155#0#PHP" />
+            <element signature="e#2182#2442#0#PHP" />
+            <element signature="e#1928#2100#0#PHP" />
+            <element signature="n#all_categories#0;n#DeviceCategory_model#0;n#!!top" />
+            <element signature="n#mail_detail#0;n#DeviceCategory_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/DeviceCategory/controllers/DeviceCategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="72" column="59" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="59" />
+          <folding>
+            <element signature="n#add_new_category_post#0;n#DeviceCategory#0;n#!!top" />
+            <element signature="n#update_category_post#0;n#DeviceCategory#0;n#!!top" />
+            <element signature="n#all_categories_get#0;n#DeviceCategory#0;n#!!top" />
+            <element signature="n#category_details_get#0;n#DeviceCategory#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/project_constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/directory_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/DeviceProduct/controllers/DeviceProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="72" column="62" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="62" />
+          <folding>
+            <element signature="n#add_new_product_post#0;n#DeviceProduct#0;n#!!top" />
+            <element signature="n#update_product_post#0;n#DeviceProduct#0;n#!!top" />
+            <element signature="n#all_products_get#0;n#DeviceProduct#0;n#!!top" />
+            <element signature="n#product_details_get#0;n#DeviceProduct#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/DeviceProduct/models/DeviceProduct_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="109" column="44" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
+          <folding>
+            <element signature="n#add_new_product#0;n#DeviceProduct_model#0;n#!!top" />
+            <element signature="n#update_product#0;n#DeviceProduct_model#0;n#!!top" />
+            <element signature="n#all_products#0;n#DeviceProduct_model#0;n#!!top" />
+            <element signature="n#related_products#0;n#DeviceProduct_model#0;n#!!top" />
+            <element signature="n#product_details#0;n#DeviceProduct_model#0;n#!!top" />
+            <element signature="n#del_product#0;n#DeviceProduct_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/DeviceBrand/controllers/DeviceBrand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+          <folding>
+            <element signature="n#add_new_brand_post#0;n#DeviceBrand#0;n#!!top" />
+            <element signature="n#update_brand_post#0;n#DeviceBrand#0;n#!!top" />
+            <element signature="n#all_brands_get#0;n#DeviceBrand#0;n#!!top" />
+            <element signature="n#brand_details_get#0;n#DeviceBrand#0;n#!!top" />
+            <element signature="n#del_brand_get#0;n#DeviceBrand#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/DeviceBrand/models/DeviceBrand_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="138" column="9" selection-start-line="136" selection-start-column="8" selection-end-line="138" selection-end-column="9" />
+          <folding>
+            <element signature="n#add_new_brand#0;n#DeviceBrand_model#0;n#!!top" />
+            <element signature="n#update_brand#0;n#DeviceBrand_model#0;n#!!top" />
+            <element signature="n#all_brands#0;n#DeviceBrand_model#0;n#!!top" />
+            <element signature="n#brand_details#0;n#DeviceBrand_model#0;n#!!top" />
+            <element signature="n#del_brand#0;n#DeviceBrand_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Login/models/Login_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="n#authenticate_user#0;n#Login_model#0;n#!!top" />
+            <element signature="n#recover_password#0;n#Login_model#0;n#!!top" />
+            <element signature="n#sendEmail#0;n#Login_model#0;n#!!top" />
+            <element signature="n#change_user_password#0;n#Login_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Users/models/Users_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="198" column="36" selection-start-line="198" selection-start-column="36" selection-end-line="198" selection-end-column="36" />
+          <folding>
+            <element signature="e#280#420#0#PHP" />
+            <element signature="e#936#1301#0#PHP" />
+            <element signature="e#1027#1301#0#PHP" />
+            <element signature="n#all_users_get#0;n#Users_model#0;n#!!top" />
+            <element signature="n#subscribers_list#0;n#Users_model#0;n#!!top" />
+            <element signature="n#get_num_of_users#0;n#Users_model#0;n#!!top" />
+            <element signature="n#active_users#0;n#Users_model#0;n#!!top" />
+            <element signature="n#client_signin#0;n#Users_model#0;n#!!top" />
+            <element signature="n#admin_signin#0;n#Users_model#0;n#!!top" />
+            <element signature="n#verify_email#0;n#Users_model#0;n#!!top" />
+            <element signature="n#sendEmail#0;n#Users_model#0;n#!!top" />
+            <element signature="n#update_user#0;n#Users_model#0;n#!!top" />
+            <element signature="n#isChangePassword#0;n#Users_model#0;n#!!top" />
+            <element signature="n#all_users_info_get#0;n#Users_model#0;n#!!top" />
+            <element signature="n#del_users#0;n#Users_model#0;n#!!top" />
+            <element signature="n#status#0;n#Users_model#0;n#!!top" />
+            <element signature="n#update_user_badge#0;n#Users_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Admin/controllers/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="n#add_new_admin_post#0;n#Admin#0;n#!!top" />
+            <element signature="n#update_admin_post#0;n#Admin#0;n#!!top" />
+            <element signature="n#all_admins_get#0;n#Admin#0;n#!!top" />
+            <element signature="n#admin_details_get#0;n#Admin#0;n#!!top" />
+            <element signature="n#del_admin_get#0;n#Admin#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Users/controllers/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="82" column="31" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+          <folding>
+            <element signature="n#all_registered_users_get#0;n#Users#0;n#!!top" />
+            <element signature="n#registration_post#0;n#Users#0;n#!!top" />
+            <element signature="n#num_of_users_get#0;n#Users#0;n#!!top" />
+            <element signature="n#active_users_get#0;n#Users#0;n#!!top" />
+            <element signature="n#client_signin_post#0;n#Users#0;n#!!top" />
+            <element signature="n#admin_signin_post#0;n#Users#0;n#!!top" />
+            <element signature="n#subscribers_get#0;n#Users#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/Admin/models/Admin_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+          <folding>
+            <element signature="n#add_new_admin#0;n#Admin_model#0;n#!!top" />
+            <element signature="n#sendEmail#0;n#Admin_model#0;n#!!top" />
+            <element signature="e#2092#2252#0#PHP" />
+            <element signature="e#2574#2602#0#PHP" />
+            <element signature="n#all_admins#0;n#Admin_model#0;n#!!top" />
+            <element signature="n#del_admin#0;n#Admin_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/StoreLocation/controllers/StoreLocation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-358">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/StoreLocation/models/StoreLocation_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="58" column="66" selection-start-line="58" selection-start-column="66" selection-end-line="58" selection-end-column="66" />
+          <folding>
+            <element signature="n#update_location#0;n#StoreLocation_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/validation_data_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" column="73" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
+          <folding>
+            <element signature="n#validate_data#0;n#!!top" />
+            <element signature="n#check_user_if_block#0;n#!!top" />
+            <element signature="n#validate_email#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/WebContent/models/WebContent_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="n#web_content_detail#0;n#WebContent_model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/WebContent/controllers/WebContent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="157" column="26" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
