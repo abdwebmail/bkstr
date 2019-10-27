@@ -1,2 +1,7 @@
 assets/images/*
-*/assets/images
+*/assets/image
+admin/assets/img/*
+assets/client/images/*
+*/*/images
+*/images/*
+
